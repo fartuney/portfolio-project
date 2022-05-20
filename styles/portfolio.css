@@ -73,6 +73,12 @@ P {
 .content {
   margin: 30px;
 }
+img .little {
+  width: 70%;
+ border: 1px solid black;
+ border-radius: 10px;
+ padding: 0;
+}
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
@@ -171,5 +177,4 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
-  
 }
